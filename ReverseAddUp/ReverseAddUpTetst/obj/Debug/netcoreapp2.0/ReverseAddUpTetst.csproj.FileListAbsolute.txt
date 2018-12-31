@@ -1,0 +1,17 @@
+C:\Users\go4fa\source\repos\ReverseAddUp\ReverseAddUpTetst\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\go4fa\source\repos\ReverseAddUp\ReverseAddUpTetst\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\go4fa\source\repos\ReverseAddUp\ReverseAddUpTetst\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\go4fa\source\repos\ReverseAddUp\ReverseAddUpTetst\bin\Debug\netcoreapp2.0\ReverseAddUpTetst.deps.json
+C:\Users\go4fa\source\repos\ReverseAddUp\ReverseAddUpTetst\bin\Debug\netcoreapp2.0\ReverseAddUpTetst.runtimeconfig.json
+C:\Users\go4fa\source\repos\ReverseAddUp\ReverseAddUpTetst\bin\Debug\netcoreapp2.0\ReverseAddUpTetst.runtimeconfig.dev.json
+C:\Users\go4fa\source\repos\ReverseAddUp\ReverseAddUpTetst\bin\Debug\netcoreapp2.0\ReverseAddUpTetst.dll
+C:\Users\go4fa\source\repos\ReverseAddUp\ReverseAddUpTetst\bin\Debug\netcoreapp2.0\ReverseAddUpTetst.pdb
+C:\Users\go4fa\source\repos\ReverseAddUp\ReverseAddUpTetst\bin\Debug\netcoreapp2.0\ReverseAddUp.dll
+C:\Users\go4fa\source\repos\ReverseAddUp\ReverseAddUpTetst\bin\Debug\netcoreapp2.0\ReverseAddUp.pdb
+C:\Users\go4fa\source\repos\ReverseAddUp\ReverseAddUpTetst\obj\Debug\netcoreapp2.0\ReverseAddUpTetst.csprojAssemblyReference.cache
+C:\Users\go4fa\source\repos\ReverseAddUp\ReverseAddUpTetst\obj\Debug\netcoreapp2.0\ReverseAddUpTetst.csproj.CoreCompileInputs.cache
+C:\Users\go4fa\source\repos\ReverseAddUp\ReverseAddUpTetst\obj\Debug\netcoreapp2.0\ReverseAddUpTetst.AssemblyInfoInputs.cache
+C:\Users\go4fa\source\repos\ReverseAddUp\ReverseAddUpTetst\obj\Debug\netcoreapp2.0\ReverseAddUpTetst.AssemblyInfo.cs
+C:\Users\go4fa\source\repos\ReverseAddUp\ReverseAddUpTetst\obj\Debug\netcoreapp2.0\ReverseAddUpTetst.csproj.CopyComplete
+C:\Users\go4fa\source\repos\ReverseAddUp\ReverseAddUpTetst\obj\Debug\netcoreapp2.0\ReverseAddUpTetst.dll
+C:\Users\go4fa\source\repos\ReverseAddUp\ReverseAddUpTetst\obj\Debug\netcoreapp2.0\ReverseAddUpTetst.pdb

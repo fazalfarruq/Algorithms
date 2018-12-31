@@ -1,0 +1,11 @@
+c:\users\go4fa\source\repos\StringRev\StringRev\bin\Debug\netcoreapp2.0\StringRev.deps.json
+c:\users\go4fa\source\repos\StringRev\StringRev\bin\Debug\netcoreapp2.0\StringRev.runtimeconfig.json
+c:\users\go4fa\source\repos\StringRev\StringRev\bin\Debug\netcoreapp2.0\StringRev.runtimeconfig.dev.json
+c:\users\go4fa\source\repos\StringRev\StringRev\bin\Debug\netcoreapp2.0\StringRev.dll
+c:\users\go4fa\source\repos\StringRev\StringRev\bin\Debug\netcoreapp2.0\StringRev.pdb
+c:\users\go4fa\source\repos\StringRev\StringRev\obj\Debug\netcoreapp2.0\StringRev.csprojAssemblyReference.cache
+c:\users\go4fa\source\repos\StringRev\StringRev\obj\Debug\netcoreapp2.0\StringRev.csproj.CoreCompileInputs.cache
+c:\users\go4fa\source\repos\StringRev\StringRev\obj\Debug\netcoreapp2.0\StringRev.AssemblyInfoInputs.cache
+c:\users\go4fa\source\repos\StringRev\StringRev\obj\Debug\netcoreapp2.0\StringRev.AssemblyInfo.cs
+c:\users\go4fa\source\repos\StringRev\StringRev\obj\Debug\netcoreapp2.0\StringRev.dll
+c:\users\go4fa\source\repos\StringRev\StringRev\obj\Debug\netcoreapp2.0\StringRev.pdb

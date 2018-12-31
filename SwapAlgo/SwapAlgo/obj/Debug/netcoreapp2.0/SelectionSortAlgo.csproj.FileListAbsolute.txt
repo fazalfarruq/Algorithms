@@ -1,0 +1,11 @@
+C:\Users\go4fa\source\repos\SwapAlgo\SwapAlgo\bin\Debug\netcoreapp2.0\SelectionSortAlgo.deps.json
+C:\Users\go4fa\source\repos\SwapAlgo\SwapAlgo\bin\Debug\netcoreapp2.0\SelectionSortAlgo.runtimeconfig.json
+C:\Users\go4fa\source\repos\SwapAlgo\SwapAlgo\bin\Debug\netcoreapp2.0\SelectionSortAlgo.runtimeconfig.dev.json
+C:\Users\go4fa\source\repos\SwapAlgo\SwapAlgo\bin\Debug\netcoreapp2.0\SelectionSortAlgo.dll
+C:\Users\go4fa\source\repos\SwapAlgo\SwapAlgo\bin\Debug\netcoreapp2.0\SelectionSortAlgo.pdb
+C:\Users\go4fa\source\repos\SwapAlgo\SwapAlgo\obj\Debug\netcoreapp2.0\SelectionSortAlgo.csproj.CoreCompileInputs.cache
+C:\Users\go4fa\source\repos\SwapAlgo\SwapAlgo\obj\Debug\netcoreapp2.0\SelectionSortAlgo.AssemblyInfoInputs.cache
+C:\Users\go4fa\source\repos\SwapAlgo\SwapAlgo\obj\Debug\netcoreapp2.0\SelectionSortAlgo.AssemblyInfo.cs
+C:\Users\go4fa\source\repos\SwapAlgo\SwapAlgo\obj\Debug\netcoreapp2.0\SelectionSortAlgo.dll
+C:\Users\go4fa\source\repos\SwapAlgo\SwapAlgo\obj\Debug\netcoreapp2.0\SelectionSortAlgo.pdb
+C:\Users\go4fa\source\repos\SwapAlgo\SwapAlgo\obj\Debug\netcoreapp2.0\SelectionSortAlgo.csprojAssemblyReference.cache

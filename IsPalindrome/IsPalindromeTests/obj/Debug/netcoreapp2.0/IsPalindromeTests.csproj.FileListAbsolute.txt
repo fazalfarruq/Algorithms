@@ -1,0 +1,17 @@
+C:\Users\go4fa\source\repos\IsPalindrome\IsPalindromeTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\go4fa\source\repos\IsPalindrome\IsPalindromeTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\go4fa\source\repos\IsPalindrome\IsPalindromeTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\go4fa\source\repos\IsPalindrome\IsPalindromeTests\bin\Debug\netcoreapp2.0\IsPalindromeTests.deps.json
+C:\Users\go4fa\source\repos\IsPalindrome\IsPalindromeTests\bin\Debug\netcoreapp2.0\IsPalindromeTests.runtimeconfig.json
+C:\Users\go4fa\source\repos\IsPalindrome\IsPalindromeTests\bin\Debug\netcoreapp2.0\IsPalindromeTests.runtimeconfig.dev.json
+C:\Users\go4fa\source\repos\IsPalindrome\IsPalindromeTests\bin\Debug\netcoreapp2.0\IsPalindromeTests.dll
+C:\Users\go4fa\source\repos\IsPalindrome\IsPalindromeTests\bin\Debug\netcoreapp2.0\IsPalindromeTests.pdb
+C:\Users\go4fa\source\repos\IsPalindrome\IsPalindromeTests\bin\Debug\netcoreapp2.0\IsPalindrome.dll
+C:\Users\go4fa\source\repos\IsPalindrome\IsPalindromeTests\bin\Debug\netcoreapp2.0\IsPalindrome.pdb
+C:\Users\go4fa\source\repos\IsPalindrome\IsPalindromeTests\obj\Debug\netcoreapp2.0\IsPalindromeTests.csprojAssemblyReference.cache
+C:\Users\go4fa\source\repos\IsPalindrome\IsPalindromeTests\obj\Debug\netcoreapp2.0\IsPalindromeTests.csproj.CoreCompileInputs.cache
+C:\Users\go4fa\source\repos\IsPalindrome\IsPalindromeTests\obj\Debug\netcoreapp2.0\IsPalindromeTests.AssemblyInfoInputs.cache
+C:\Users\go4fa\source\repos\IsPalindrome\IsPalindromeTests\obj\Debug\netcoreapp2.0\IsPalindromeTests.AssemblyInfo.cs
+C:\Users\go4fa\source\repos\IsPalindrome\IsPalindromeTests\obj\Debug\netcoreapp2.0\IsPalindromeTests.csproj.CopyComplete
+C:\Users\go4fa\source\repos\IsPalindrome\IsPalindromeTests\obj\Debug\netcoreapp2.0\IsPalindromeTests.dll
+C:\Users\go4fa\source\repos\IsPalindrome\IsPalindromeTests\obj\Debug\netcoreapp2.0\IsPalindromeTests.pdb

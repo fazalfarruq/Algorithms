@@ -1,0 +1,11 @@
+c:\users\go4fa\source\repos\ReverseListSum\ReverseListSum\obj\Debug\netcoreapp2.0\ReverseListSum.csprojAssemblyReference.cache
+c:\users\go4fa\source\repos\ReverseListSum\ReverseListSum\obj\Debug\netcoreapp2.0\ReverseListSum.csproj.CoreCompileInputs.cache
+c:\users\go4fa\source\repos\ReverseListSum\ReverseListSum\obj\Debug\netcoreapp2.0\ReverseListSum.AssemblyInfoInputs.cache
+c:\users\go4fa\source\repos\ReverseListSum\ReverseListSum\obj\Debug\netcoreapp2.0\ReverseListSum.AssemblyInfo.cs
+c:\users\go4fa\source\repos\ReverseListSum\ReverseListSum\bin\Debug\netcoreapp2.0\ReverseListSum.deps.json
+c:\users\go4fa\source\repos\ReverseListSum\ReverseListSum\bin\Debug\netcoreapp2.0\ReverseListSum.runtimeconfig.json
+c:\users\go4fa\source\repos\ReverseListSum\ReverseListSum\bin\Debug\netcoreapp2.0\ReverseListSum.runtimeconfig.dev.json
+c:\users\go4fa\source\repos\ReverseListSum\ReverseListSum\bin\Debug\netcoreapp2.0\ReverseListSum.dll
+c:\users\go4fa\source\repos\ReverseListSum\ReverseListSum\bin\Debug\netcoreapp2.0\ReverseListSum.pdb
+c:\users\go4fa\source\repos\ReverseListSum\ReverseListSum\obj\Debug\netcoreapp2.0\ReverseListSum.dll
+c:\users\go4fa\source\repos\ReverseListSum\ReverseListSum\obj\Debug\netcoreapp2.0\ReverseListSum.pdb

@@ -1,0 +1,10 @@
+c:\users\go4fa\source\repos\FactorialFazal\FactorialFazal\bin\Debug\netcoreapp2.0\FactorialFazal.deps.json
+c:\users\go4fa\source\repos\FactorialFazal\FactorialFazal\bin\Debug\netcoreapp2.0\FactorialFazal.runtimeconfig.json
+c:\users\go4fa\source\repos\FactorialFazal\FactorialFazal\bin\Debug\netcoreapp2.0\FactorialFazal.runtimeconfig.dev.json
+c:\users\go4fa\source\repos\FactorialFazal\FactorialFazal\bin\Debug\netcoreapp2.0\FactorialFazal.dll
+c:\users\go4fa\source\repos\FactorialFazal\FactorialFazal\bin\Debug\netcoreapp2.0\FactorialFazal.pdb
+c:\users\go4fa\source\repos\FactorialFazal\FactorialFazal\obj\Debug\netcoreapp2.0\FactorialFazal.csproj.CoreCompileInputs.cache
+c:\users\go4fa\source\repos\FactorialFazal\FactorialFazal\obj\Debug\netcoreapp2.0\FactorialFazal.AssemblyInfoInputs.cache
+c:\users\go4fa\source\repos\FactorialFazal\FactorialFazal\obj\Debug\netcoreapp2.0\FactorialFazal.AssemblyInfo.cs
+c:\users\go4fa\source\repos\FactorialFazal\FactorialFazal\obj\Debug\netcoreapp2.0\FactorialFazal.dll
+c:\users\go4fa\source\repos\FactorialFazal\FactorialFazal\obj\Debug\netcoreapp2.0\FactorialFazal.pdb

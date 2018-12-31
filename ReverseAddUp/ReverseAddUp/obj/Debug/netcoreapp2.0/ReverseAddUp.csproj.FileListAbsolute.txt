@@ -1,0 +1,11 @@
+C:\Users\go4fa\source\repos\ReverseAddUp\ReverseAddUp\bin\Debug\netcoreapp2.0\ReverseAddUp.deps.json
+C:\Users\go4fa\source\repos\ReverseAddUp\ReverseAddUp\bin\Debug\netcoreapp2.0\ReverseAddUp.runtimeconfig.json
+C:\Users\go4fa\source\repos\ReverseAddUp\ReverseAddUp\bin\Debug\netcoreapp2.0\ReverseAddUp.runtimeconfig.dev.json
+C:\Users\go4fa\source\repos\ReverseAddUp\ReverseAddUp\bin\Debug\netcoreapp2.0\ReverseAddUp.dll
+C:\Users\go4fa\source\repos\ReverseAddUp\ReverseAddUp\bin\Debug\netcoreapp2.0\ReverseAddUp.pdb
+C:\Users\go4fa\source\repos\ReverseAddUp\ReverseAddUp\obj\Debug\netcoreapp2.0\ReverseAddUp.csprojAssemblyReference.cache
+C:\Users\go4fa\source\repos\ReverseAddUp\ReverseAddUp\obj\Debug\netcoreapp2.0\ReverseAddUp.csproj.CoreCompileInputs.cache
+C:\Users\go4fa\source\repos\ReverseAddUp\ReverseAddUp\obj\Debug\netcoreapp2.0\ReverseAddUp.AssemblyInfoInputs.cache
+C:\Users\go4fa\source\repos\ReverseAddUp\ReverseAddUp\obj\Debug\netcoreapp2.0\ReverseAddUp.AssemblyInfo.cs
+C:\Users\go4fa\source\repos\ReverseAddUp\ReverseAddUp\obj\Debug\netcoreapp2.0\ReverseAddUp.dll
+C:\Users\go4fa\source\repos\ReverseAddUp\ReverseAddUp\obj\Debug\netcoreapp2.0\ReverseAddUp.pdb

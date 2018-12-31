@@ -1,0 +1,11 @@
+c:\users\go4fa\source\repos\FibonacciFazal\FibonacciFazal\obj\Debug\netcoreapp2.0\FibonacciFazal.csprojAssemblyReference.cache
+c:\users\go4fa\source\repos\FibonacciFazal\FibonacciFazal\obj\Debug\netcoreapp2.0\FibonacciFazal.csproj.CoreCompileInputs.cache
+c:\users\go4fa\source\repos\FibonacciFazal\FibonacciFazal\obj\Debug\netcoreapp2.0\FibonacciFazal.AssemblyInfoInputs.cache
+c:\users\go4fa\source\repos\FibonacciFazal\FibonacciFazal\obj\Debug\netcoreapp2.0\FibonacciFazal.AssemblyInfo.cs
+c:\users\go4fa\source\repos\FibonacciFazal\FibonacciFazal\bin\Debug\netcoreapp2.0\FibonacciFazal.deps.json
+c:\users\go4fa\source\repos\FibonacciFazal\FibonacciFazal\bin\Debug\netcoreapp2.0\FibonacciFazal.runtimeconfig.json
+c:\users\go4fa\source\repos\FibonacciFazal\FibonacciFazal\bin\Debug\netcoreapp2.0\FibonacciFazal.runtimeconfig.dev.json
+c:\users\go4fa\source\repos\FibonacciFazal\FibonacciFazal\bin\Debug\netcoreapp2.0\FibonacciFazal.dll
+c:\users\go4fa\source\repos\FibonacciFazal\FibonacciFazal\bin\Debug\netcoreapp2.0\FibonacciFazal.pdb
+c:\users\go4fa\source\repos\FibonacciFazal\FibonacciFazal\obj\Debug\netcoreapp2.0\FibonacciFazal.dll
+c:\users\go4fa\source\repos\FibonacciFazal\FibonacciFazal\obj\Debug\netcoreapp2.0\FibonacciFazal.pdb

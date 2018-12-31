@@ -1,0 +1,11 @@
+C:\Users\go4fa\source\repos\CoinChangeSolution\CoinChangeSolution\bin\Debug\netcoreapp2.0\CoinChangeSolution.deps.json
+C:\Users\go4fa\source\repos\CoinChangeSolution\CoinChangeSolution\bin\Debug\netcoreapp2.0\CoinChangeSolution.runtimeconfig.json
+C:\Users\go4fa\source\repos\CoinChangeSolution\CoinChangeSolution\bin\Debug\netcoreapp2.0\CoinChangeSolution.runtimeconfig.dev.json
+C:\Users\go4fa\source\repos\CoinChangeSolution\CoinChangeSolution\bin\Debug\netcoreapp2.0\CoinChangeSolution.dll
+C:\Users\go4fa\source\repos\CoinChangeSolution\CoinChangeSolution\bin\Debug\netcoreapp2.0\CoinChangeSolution.pdb
+C:\Users\go4fa\source\repos\CoinChangeSolution\CoinChangeSolution\obj\Debug\netcoreapp2.0\CoinChangeSolution.csprojAssemblyReference.cache
+C:\Users\go4fa\source\repos\CoinChangeSolution\CoinChangeSolution\obj\Debug\netcoreapp2.0\CoinChangeSolution.csproj.CoreCompileInputs.cache
+C:\Users\go4fa\source\repos\CoinChangeSolution\CoinChangeSolution\obj\Debug\netcoreapp2.0\CoinChangeSolution.AssemblyInfoInputs.cache
+C:\Users\go4fa\source\repos\CoinChangeSolution\CoinChangeSolution\obj\Debug\netcoreapp2.0\CoinChangeSolution.AssemblyInfo.cs
+C:\Users\go4fa\source\repos\CoinChangeSolution\CoinChangeSolution\obj\Debug\netcoreapp2.0\CoinChangeSolution.dll
+C:\Users\go4fa\source\repos\CoinChangeSolution\CoinChangeSolution\obj\Debug\netcoreapp2.0\CoinChangeSolution.pdb

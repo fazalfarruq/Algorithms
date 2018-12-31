@@ -1,0 +1,11 @@
+c:\users\go4fa\source\repos\SwapAlgo\SwapAlgo\bin\Debug\netcoreapp2.0\SwapAlgo.deps.json
+c:\users\go4fa\source\repos\SwapAlgo\SwapAlgo\bin\Debug\netcoreapp2.0\SwapAlgo.runtimeconfig.json
+c:\users\go4fa\source\repos\SwapAlgo\SwapAlgo\bin\Debug\netcoreapp2.0\SwapAlgo.runtimeconfig.dev.json
+c:\users\go4fa\source\repos\SwapAlgo\SwapAlgo\bin\Debug\netcoreapp2.0\SwapAlgo.dll
+c:\users\go4fa\source\repos\SwapAlgo\SwapAlgo\bin\Debug\netcoreapp2.0\SwapAlgo.pdb
+c:\users\go4fa\source\repos\SwapAlgo\SwapAlgo\obj\Debug\netcoreapp2.0\SwapAlgo.csprojAssemblyReference.cache
+c:\users\go4fa\source\repos\SwapAlgo\SwapAlgo\obj\Debug\netcoreapp2.0\SwapAlgo.csproj.CoreCompileInputs.cache
+c:\users\go4fa\source\repos\SwapAlgo\SwapAlgo\obj\Debug\netcoreapp2.0\SwapAlgo.AssemblyInfoInputs.cache
+c:\users\go4fa\source\repos\SwapAlgo\SwapAlgo\obj\Debug\netcoreapp2.0\SwapAlgo.AssemblyInfo.cs
+c:\users\go4fa\source\repos\SwapAlgo\SwapAlgo\obj\Debug\netcoreapp2.0\SwapAlgo.dll
+c:\users\go4fa\source\repos\SwapAlgo\SwapAlgo\obj\Debug\netcoreapp2.0\SwapAlgo.pdb

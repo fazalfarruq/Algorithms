@@ -1,0 +1,11 @@
+C:\Users\go4fa\source\repos\IndexAlgorithm\IndexAlgorithm\bin\Debug\netcoreapp2.0\IndexAlgorithm.deps.json
+C:\Users\go4fa\source\repos\IndexAlgorithm\IndexAlgorithm\bin\Debug\netcoreapp2.0\IndexAlgorithm.runtimeconfig.json
+C:\Users\go4fa\source\repos\IndexAlgorithm\IndexAlgorithm\bin\Debug\netcoreapp2.0\IndexAlgorithm.runtimeconfig.dev.json
+C:\Users\go4fa\source\repos\IndexAlgorithm\IndexAlgorithm\bin\Debug\netcoreapp2.0\IndexAlgorithm.dll
+C:\Users\go4fa\source\repos\IndexAlgorithm\IndexAlgorithm\bin\Debug\netcoreapp2.0\IndexAlgorithm.pdb
+C:\Users\go4fa\source\repos\IndexAlgorithm\IndexAlgorithm\obj\Debug\netcoreapp2.0\IndexAlgorithm.csprojAssemblyReference.cache
+C:\Users\go4fa\source\repos\IndexAlgorithm\IndexAlgorithm\obj\Debug\netcoreapp2.0\IndexAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\go4fa\source\repos\IndexAlgorithm\IndexAlgorithm\obj\Debug\netcoreapp2.0\IndexAlgorithm.AssemblyInfoInputs.cache
+C:\Users\go4fa\source\repos\IndexAlgorithm\IndexAlgorithm\obj\Debug\netcoreapp2.0\IndexAlgorithm.AssemblyInfo.cs
+C:\Users\go4fa\source\repos\IndexAlgorithm\IndexAlgorithm\obj\Debug\netcoreapp2.0\IndexAlgorithm.dll
+C:\Users\go4fa\source\repos\IndexAlgorithm\IndexAlgorithm\obj\Debug\netcoreapp2.0\IndexAlgorithm.pdb
